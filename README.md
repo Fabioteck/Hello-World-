@@ -3,7 +3,7 @@
 This is my first repo for testing
 
 Fabio Frigeri
-Full Stack Developper
+Full Stack Developer
 
 Frigeriwki@gmail.com
 
